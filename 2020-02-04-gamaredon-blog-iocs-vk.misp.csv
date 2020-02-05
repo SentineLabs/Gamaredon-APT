@@ -1,0 +1,9 @@
+uuid,event_id,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
+"5e3a0321-7824-4dd3-ab76-145119d2faa1",1296,"Network activity","ip-dst","141.8.195.60","First-layer proxy IP",1,1580860280,"","","","",""
+"5e3a0321-e374-4b63-bf77-145119d2faa1",1296,"Network activity","ip-dst","188.225.25.50","First-layer proxy IP",1,1580860283,"","","","",""
+"5e3a0321-7fac-48ad-b767-145119d2faa1",1296,"Payload delivery","sha256","c1524a4573bc6acbe59e559c2596975c657ae6bbc0b64f943fffca663b98a95f","",1,1580860193,"","","","",""
+"5e3a0321-6d0c-4103-bcf2-145119d2faa1",1296,"Payload delivery","sha256","76ea98e1861c1264b340cf3748c3ec74473b04d042cd6bfda9ce51d086cb5a1a","",1,1580860193,"","","","",""
+"5e3a0321-fb64-4012-840a-145119d2faa1",1296,"Payload delivery","sha256","e2cb06e0a5c14b4c5f58d0e56a1dc10b6a1007cf56c77ae6cb07946c3dfe82d8","",1,1580860193,"","","","",""
+"5e3a0321-81b4-4ae4-85e8-145119d2faa1",1296,"Payload delivery","sha256","39c6884526e7b7f2ed6e47b630010508bb5957385eccf248c961cbd5bcb802c6","",1,1580860193,"","","","",""
+"5e3a0367-83c8-42d6-96d7-144d68f8e8cf",1296,"Network activity","domain","masseffect.space","Gamaredon Relevant First-Layer Domain",1,1580860263,"","","","",""
+
